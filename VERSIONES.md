@@ -10,3 +10,4 @@
 | 1.0 | 51 | OWL-TV-1.0-build51.apk | Publicada (update.json) | Flecha abajo solo en reproductor a pantalla completa (en listas navega normal). Subtítulos on/off. Pendiente: franja completa, pausa con OK, logos EPG, AFR |
 | 1.0 | 52 | OWL-TV-1.0-build52.apk | Publicada (update.json) | Corrige versión mostrada (BuildConfig 1.0 / 52; antes salía 1.8.0 en todas las builds). Flecha abajo solo en pantalla completa |
 | 1.8.1 | 53 | OWL-TV-1.8.1-build53.apk | Publicada (update.json) | Versión renombrada a 1.8.1 (código 53). Mismo contenido que build 52 |
+| 1.8.2 | 54 | OWL-TV-1.8.2-build54.apk | Publicada (update.json) | Corrige textos fijos de versión ("1.8.0") y el umbral de actualización (46 → 54). Versión 1.8.2 |
