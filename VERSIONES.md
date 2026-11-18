@@ -26,3 +26,4 @@
 | 1.8.16 | 68 | OWL-TV-1.8.16-build68.apk | Instalada por ADB | Instalación de actualizaciones con ACTION_VIEW (como la app original) |
 | 1.8.17 | 69 | OWL-TV-1.8.17-build69.apk | Publicada (latest) | Prueba de actualización automática desde 68 |
 | 1.8.18 | 70 | OWL-TV-1.8.18-build70.apk | Publicada (latest) | Foco de canales en rojo (borde); color principal vuelve a gris. Prueba de actualización desde 69 |
+| 1.8.19 | 71 | OWL-TV-1.8.19-build71.apk | Publicada (latest) | Foco: borde blanco en canales, fondo de categoría más marcado (0.6). Color principal gris |
