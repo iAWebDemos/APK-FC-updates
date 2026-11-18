@@ -28,3 +28,4 @@
 | 1.8.18 | 70 | OWL-TV-1.8.18-build70.apk | Publicada (latest) | Foco de canales en rojo (borde); color principal vuelve a gris. Prueba de actualización desde 69 |
 | 1.8.19 | 71 | OWL-TV-1.8.19-build71.apk | Publicada (latest) | Foco: borde blanco en canales, fondo de categoría más marcado (0.6). Color principal gris |
 | 1.8.20 | 72 | OWL-TV-1.8.20-build72.apk | Publicada (latest) | Borde de foco rojo en categorías (seleccionada). Corregido fallo de color (ColorKt.Color). Pendiente: borde en pestañas y canales |
+| 1.8.21 | 73 | OWL-TV-1.8.21-build73.apk | Publicada (latest) | Revertido el borde rojo de la categoría seleccionada (no era el cursor) |
