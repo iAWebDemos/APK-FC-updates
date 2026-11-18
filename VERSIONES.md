@@ -34,3 +34,4 @@
 | 1.8.25 | 77 | OWL-TV-1.8.25-build77.apk | Publicada (latest) | Corregido cierre al pulsar derecha/abajo en canales (color de borde mal formado en ChannelRow) |
 | 1.8.26 | 78 | OWL-TV-1.8.26-build78.apk | Publicada (latest) | Reloj solo en reproducción (esquina superior izquierda) |
 | 1.8.27 | 79 | OWL-TV-1.8.27-build79.apk | Publicada (latest) | Interruptor del reloj en Ajustes reactivo (muestra el estado y cambia al pulsarlo) |
+| 1.8.28 | 80 | OWL-TV-1.8.28-build80.apk | Publicada (latest) | Interruptor del reloj en Ajustes funciona (se activa/desactiva al pulsar) |
