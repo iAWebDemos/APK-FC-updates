@@ -17,3 +17,4 @@
 | 1.8.6 | 58 | OWL-TV-1.8.6-build58.apk | Publicada (update.json) | Oculta servidor Pachanga. Logo del proveedor sustituido por el logo OWL |
 | 1.8.7 | 59 | OWL-TV-1.8.7-build59.apk | Publicada (update.json) | Texto del selector de servidor: "Seleccione su servidor" |
 | 1.8.8 | 60 | OWL-TV-1.8.8-build60.apk | Publicada (update.json) | OK: primera pulsacion muestra controles, segunda pausa (ya no pausa al primer OK). Abajo con controles visibles: aviso "Próximamente" y no cambia de canal (tira provisional) |
+| 1.8.9 | 61 | OWL-TV-1.8.9-build61.apk | Publicada (update.json) | Instalación de actualizaciones con PackageInstaller (ya no depende de abrir el instalador). Color de foco rojo (primario) |
