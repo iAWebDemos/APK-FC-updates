@@ -31,3 +31,4 @@
 | 1.8.21 | 73 | OWL-TV-1.8.21-build73.apk | Publicada (latest) | Revertido el borde rojo de la categoría seleccionada (no era el cursor) |
 | 1.8.23 | 75 | OWL-TV-1.8.23-build75.apk | Publicada (latest) | Reloj opcional (abajo a la izquierda, semitransparente). Ajuste en Ajustes > Reproducción, desactivado por defecto |
 | 1.8.24 | 76 | OWL-TV-1.8.24-build76.apk | Publicada (latest) | Reloj movido a la esquina superior izquierda |
+| 1.8.25 | 77 | OWL-TV-1.8.25-build77.apk | Publicada (latest) | Corregido cierre al pulsar derecha/abajo en canales (color de borde mal formado en ChannelRow) |
