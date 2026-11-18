@@ -22,3 +22,4 @@
 | 1.8.12 | 64 | OWL-TV-1.8.12-build64.apk | Publicada (update.json) | Corrige el número de versión interno (antes Android veía siempre 60, por eso fallaban las actualizaciones). Foco de canales (último canal enfocado) y foco de Ajustes pendientes de prueba |
 | 1.8.13 | 65 | OWL-TV-1.8.13-build65.apk | Publicada (update.json) | Prueba de actualización automática desde la 64 |
 | 1.8.14 | 66 | OWL-TV-1.8.14-build66.apk | Publicada (latest.apk / latest.json) | Ajustes usa la misma dirección de actualización que la pantalla de canales. Nombre fijo latest.apk para instalar |
+| 1.8.15 | 67 | OWL-TV-1.8.15-build67.apk | Publicada (latest) | Prueba de actualización desde Ajustes (sin cambios de código) |
