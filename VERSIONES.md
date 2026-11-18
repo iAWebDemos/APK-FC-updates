@@ -15,3 +15,4 @@
 | 1.8.4 | 56 | OWL-TV-1.8.4-build56.apk | Publicada (update.json) | Arreglada la detección de actualizaciones (la URL del update.json salía mal desde la 54). Mínimo ahora = versión instalada (BuildConfig) |
 | 1.8.5 | 57 | OWL-TV-1.8.5-build57.apk | Publicada (update.json) | Nuevo nombre de paquete com.owltv.app (el launcher del Fire TV cacheaba el banner azul). Requiere instalar una vez a mano y volver a iniciar sesión |
 | 1.8.6 | 58 | OWL-TV-1.8.6-build58.apk | Publicada (update.json) | Oculta servidor Pachanga. Logo del proveedor sustituido por el logo OWL |
+| 1.8.7 | 59 | OWL-TV-1.8.7-build59.apk | Publicada (update.json) | Texto del selector de servidor: "Seleccione su servidor" |
