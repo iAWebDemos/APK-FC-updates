@@ -23,3 +23,5 @@
 | 1.8.13 | 65 | OWL-TV-1.8.13-build65.apk | Publicada (update.json) | Prueba de actualización automática desde la 64 |
 | 1.8.14 | 66 | OWL-TV-1.8.14-build66.apk | Publicada (latest.apk / latest.json) | Ajustes usa la misma dirección de actualización que la pantalla de canales. Nombre fijo latest.apk para instalar |
 | 1.8.15 | 67 | OWL-TV-1.8.15-build67.apk | Publicada (latest) | Prueba de actualización desde Ajustes (sin cambios de código) |
+| 1.8.16 | 68 | OWL-TV-1.8.16-build68.apk | Instalada por ADB | Instalación de actualizaciones con ACTION_VIEW (como la app original) |
+| 1.8.17 | 69 | OWL-TV-1.8.17-build69.apk | Publicada (latest) | Prueba de actualización automática desde 68 |
