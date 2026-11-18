@@ -35,3 +35,4 @@
 | 1.8.26 | 78 | OWL-TV-1.8.26-build78.apk | Publicada (latest) | Reloj solo en reproducción (esquina superior izquierda) |
 | 1.8.27 | 79 | OWL-TV-1.8.27-build79.apk | Publicada (latest) | Interruptor del reloj en Ajustes reactivo (muestra el estado y cambia al pulsarlo) |
 | 1.8.28 | 80 | OWL-TV-1.8.28-build80.apk | Publicada (latest) | Interruptor del reloj en Ajustes funciona (se activa/desactiva al pulsar) |
+| 1.8.29 | 81 | OWL-TV-1.8.29-build81.apk | Publicada (latest) | Interruptor "EPG Doble M" en Ajustes (activado = Doble M, desactivado = guía precargada) |
