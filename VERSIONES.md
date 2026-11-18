@@ -12,3 +12,4 @@
 | 1.8.1 | 53 | OWL-TV-1.8.1-build53.apk | Publicada (update.json) | Versión renombrada a 1.8.1 (código 53). Mismo contenido que build 52 |
 | 1.8.2 | 54 | OWL-TV-1.8.2-build54.apk | Publicada (update.json) | Corrige textos fijos de versión ("1.8.0") y el umbral de actualización (46 → 54). Versión 1.8.2 |
 | 1.8.3 | 55 | OWL-TV-1.8.3-build55.apk | Publicada (update.json) | Revertida flecha abajo (vuelve al comportamiento original de canales) |
+| 1.8.4 | 56 | OWL-TV-1.8.4-build56.apk | Publicada (update.json) | Arreglada la detección de actualizaciones (la URL del update.json salía mal desde la 54). Mínimo ahora = versión instalada (BuildConfig) |
