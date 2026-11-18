@@ -13,3 +13,4 @@
 | 1.8.2 | 54 | OWL-TV-1.8.2-build54.apk | Publicada (update.json) | Corrige textos fijos de versión ("1.8.0") y el umbral de actualización (46 → 54). Versión 1.8.2 |
 | 1.8.3 | 55 | OWL-TV-1.8.3-build55.apk | Publicada (update.json) | Revertida flecha abajo (vuelve al comportamiento original de canales) |
 | 1.8.4 | 56 | OWL-TV-1.8.4-build56.apk | Publicada (update.json) | Arreglada la detección de actualizaciones (la URL del update.json salía mal desde la 54). Mínimo ahora = versión instalada (BuildConfig) |
+| 1.8.5 | 57 | OWL-TV-1.8.5-build57.apk | Publicada (update.json) | Nuevo nombre de paquete com.owltv.app (el launcher del Fire TV cacheaba el banner azul). Requiere instalar una vez a mano y volver a iniciar sesión |
