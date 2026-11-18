@@ -20,3 +20,4 @@
 | 1.8.9 | 61 | OWL-TV-1.8.9-build61.apk | Publicada (update.json) | Instalación de actualizaciones con PackageInstaller (ya no depende de abrir el instalador). Color de foco rojo (primario) |
 | 1.8.10 | 62 | OWL-TV-1.8.10-build62.apk | Publicada (update.json) | Diagnóstico de instalación: muestra avisos con el estado del instalador y errores |
 | 1.8.12 | 64 | OWL-TV-1.8.12-build64.apk | Publicada (update.json) | Corrige el número de versión interno (antes Android veía siempre 60, por eso fallaban las actualizaciones). Foco de canales (último canal enfocado) y foco de Ajustes pendientes de prueba |
+| 1.8.13 | 65 | OWL-TV-1.8.13-build65.apk | Publicada (update.json) | Prueba de actualización automática desde la 64 |
